@@ -1,0 +1,6 @@
+com/demo/controller/CurrencyController.class
+com/demo/repository/CurrencyRepository.class
+com/demo/service/CoindeskService.class
+com/demo/service/CurrencyService.class
+com/demo/DemotestApplication.class
+com/demo/model/Currency.class
